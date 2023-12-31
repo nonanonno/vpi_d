@@ -4,7 +4,7 @@
 #include <vpi/algo/ConvertImageFormat.h>
 #include <vpi/algo/Convolution.h>
 
-const int VpiMaxStatusMessageLength = VPI_MAX_STATUS_MESSAGE_LENGTH;;;;
+const int VpiMaxStatusMessageLength = VPI_MAX_STATUS_MESSAGE_LENGTH;
 const VPIImageFormat VpiImageFormatU8 = VPI_IMAGE_FORMAT_U8;
 const VPIImageFormat VpiImageFormatRGB8 = VPI_IMAGE_FORMAT_RGB8;
 const VPIImageFormat VpiImageFormatBGR8 = VPI_IMAGE_FORMAT_BGR8;
