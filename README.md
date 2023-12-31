@@ -12,8 +12,10 @@ curl -fsS https://dlang.org/install.sh | bash -s ldc
 source ~/dlang/ldc-1.35.0/activate
 ```
 
-実行。
+クローンして実行。
 
 ```shell
+git clone https://github.com/nonanonno/vpi_d.git
+cd vpi_d
 dub -- pva <path/to/image_file>
 ```
